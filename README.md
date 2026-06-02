@@ -20,7 +20,7 @@
 
 <br />
 
-I am a Web3 full-stack developer focused on translating smart contract ideas into clear product experiences. My work sits between Solidity, frontend engineering, and the small details that make an interface feel trustworthy.
+I am a Web3 full-stack developer focused on translating smart contract ideas into clear product experiences. My work sits between Solidity, frontend engineering, and the interaction details that make an interface feel trustworthy.
 
 - Building a foundation in `Solidity`, `TypeScript`, `React`, `Next.js`, `Ethers`, `Wagmi`, and `Hardhat`.
 - Prototyping from contract behavior to UI, so each demo is usable instead of only technically correct.
@@ -31,7 +31,7 @@ I am a Web3 full-stack developer focused on translating smart contract ideas int
 <br />
 <br />
 
-<img src="./assets/yoona-current-card.svg" width="52%" alt="Yoona current desk card" />
+<img src="./assets/yoona-current-card.svg" width="52%" alt="Yoona now building card" />
 
 <br clear="right" />
 
