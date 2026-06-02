@@ -2,82 +2,98 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,14,20,24,30&text=Hi%20there,%20I'm%20Yoona%20%F0%9F%8C%B7&fontAlign=50&fontAlignY=40&fontSize=38&fontColor=ffffff&desc=Code%20with%20curiosity,%20build%20with%20love.&descAlign=50&descAlignY=62" />
+<h1>Hi, I'm Yoona</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=E687B8&center=true&vCenter=true&width=650&lines=Front-end+%26+Web3+Explorer;JavaScript+%7C+TypeScript+%7C+Solidity+%7C+Move;Learning%2C+building%2C+and+sharing+little+sparkles+%E2%9C%A8)](https://git.io/typing-svg)
+<h3>Smart Contract Developer | Frontend Developer | Full-stack Builder</h3>
 
 <p>
-  <a href="https://blog.csdn.net/yoona333"><img src="https://img.shields.io/badge/CSDN-Blog-ff6b9e?style=for-the-badge&logo=csdn&logoColor=white" /></a>
-  <a href="https://x.com/zhovyx"><img src="https://img.shields.io/badge/X-@zhovyx-111111?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://t.me/yoona1020"><img src="https://img.shields.io/badge/Telegram-@yoona1020-8EC5FC?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Smart%20Contract%20Developer-F7DDEB?style=for-the-badge&logo=ethereum&logoColor=4A3B47" alt="Smart Contract Developer" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-DBECFF?style=for-the-badge&logo=react&logoColor=37618E" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Full--stack%20Builder-E3F6E8?style=for-the-badge&logo=nodedotjs&logoColor=3E6F4C" alt="Full-stack Builder" />
 </p>
 
 </div>
 
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h2>Building gentle interfaces for on-chain ideas</h2>
+      <p>
+        I am a growth-oriented Web3 full-stack developer exploring the space between
+        smart contracts, thoughtful frontend experiences, and practical product logic.
+      </p>
+      <p>
+        I like turning small ideas into usable demos, learning in public, and making
+        technical things feel a little clearer and more human.
+      </p>
+      <p>
+        <strong>Focus:</strong> Solidity, TypeScript, React, Next.js, Node.js, Ethers, Wagmi, Hardhat.
+      </p>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="./assets/yoona-profile.png" width="430" alt="Yoona Q-style character sheet" />
+    </td>
+  </tr>
+</table>
+
 ---
 
-## 🌸 About Me
+## About Me
 
-Hi，我是 **Yoona**。  
-一个喜欢把灵感变成作品的开发者，也喜欢在学习里收集一点点闪闪发光的进步 ✨
-
-- 🧁 关注方向：**Front-end / Web3 / Smart Contract / Node.js**
-- 🌱 正在探索：**Sui Move、Solidity、TypeScript、JavaScript**
-- 📝 喜欢记录：把踩过的坑、学到的知识写成清晰的笔记
-- 💌 小目标：持续做 demo、持续学习、持续把想法 ship 出来
+- I enjoy building Web3 products from contract logic to user-facing interfaces.
+- I care about clean interaction details, readable code, and steady iteration.
+- I am currently growing through hands-on demos, contract practice, and full-stack projects.
+- My goal is to ship useful, elegant products that make blockchain experiences easier to use.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Move-9B7EDE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Sui-4DA2FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Solidity-F7DDEB?style=for-the-badge&logo=solidity&logoColor=3F3F46" alt="Solidity" />
+  <img src="https://img.shields.io/badge/TypeScript-DBECFF?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-E8F7FF?style=for-the-badge&logo=react&logoColor=149ECA" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-F2F4F8?style=for-the-badge&logo=nextdotjs&logoColor=111111" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-E3F6E8?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Ethers.js-F1E8FF?style=for-the-badge&logo=ethereum&logoColor=7B61FF" alt="Ethers.js" />
+  <img src="https://img.shields.io/badge/Wagmi-FFF0D8?style=for-the-badge&logo=walletconnect&logoColor=F4A340" alt="Wagmi" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF7C8?style=for-the-badge&logo=ethereum&logoColor=6B5A00" alt="Hardhat" />
+  <img src="https://img.shields.io/badge/Git-FFE7DD?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-F2F4F8?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
 </p>
 
 ---
 
-## 🧸 Featured Projects
+## Currently Exploring
 
-| Project | Notes |
-| --- | --- |
-| [letsmove](https://github.com/yoona333/letsmove) | Sui / Move 学习与实践记录 |
-| [NFTdemo](https://github.com/yoona333/NFTdemo) | Solidity / NFT demo 项目 |
-| [nodejs](https://github.com/yoona333/nodejs) | Node.js 错题管理系统项目 |
-| [huan](https://github.com/yoona333/huan) | JavaScript 练习与项目记录 |
+- Smart contract patterns that are clear, testable, and easy to integrate.
+- Wallet-connected interfaces with React, Next.js, Ethers, and Wagmi.
+- Full-stack product flow from APIs and state management to polished UI details.
+- Small Web3 demos that help me learn faster and build with more confidence.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yoona333&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=d86ba7&icon_color=f2a6c9&text_color=6b5b6e" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoona333&layout=compact&hide_border=true&bg_color=fff7fb&title_color=d86ba7&text_color=6b5b6e" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yoona333&show_icons=true&hide_border=true&bg_color=FFF8FC&title_color=D36B9F&icon_color=E99ABF&text_color=635B66" alt="Yoona's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoona333&layout=compact&hide_border=true&bg_color=FFF8FC&title_color=D36B9F&text_color=635B66" alt="Yoona's top languages" />
 </div>
 
 ---
 
-## 🌙 A little more about me
+## Connect
 
-```text
-✨ soft but focused
-🌷 curious about Web3 and creative coding
-🧃 learning by building real small things
-🪄 turning ideas into tiny products, one commit at a time
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/WeChat-available%20on%20request-E3F6E8?style=for-the-badge&logo=wechat&logoColor=3E6F4C" alt="WeChat available on request" />
+  <img src="https://img.shields.io/badge/Social-coming%20soon-F7DDEB?style=for-the-badge" alt="Social coming soon" />
+  <a href="https://github.com/yoona333">
+    <img src="https://img.shields.io/badge/GitHub-yoona333-F2F4F8?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub yoona333" />
+  </a>
+</p>
 
 <div align="center">
 
-### Thanks for visiting my GitHub profile 💗
-
-<i>Stay soft. Stay curious. Keep shipping.</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient&customColorList=12,14,20,24,30" />
+<sub>Soft visuals, steady commits, and products that feel a little more human.</sub>
 
 </div>
