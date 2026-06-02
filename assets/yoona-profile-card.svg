@@ -1,0 +1,18 @@
+<svg width="560" height="172" viewBox="0 0 560 172" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="558" height="170" rx="18" fill="#FFFFFF" stroke="#F1D6E4" stroke-width="2"/>
+  <rect x="22" y="22" width="146" height="34" rx="10" fill="#FFF1F7"/>
+  <text x="39" y="44" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="800" fill="#5C4654">Focus</text>
+  <text x="24" y="84" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Smart Contracts</text>
+  <text x="24" y="112" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Web3 Frontends</text>
+  <text x="24" y="140" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Full-stack Flow</text>
+  <rect x="206" y="22" width="146" height="34" rx="10" fill="#EDF6FF"/>
+  <text x="223" y="44" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="800" fill="#3C526A">Building</text>
+  <text x="206" y="84" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Contract Demos</text>
+  <text x="206" y="112" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Wallet UIs</text>
+  <text x="206" y="140" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Practical Apps</text>
+  <rect x="390" y="22" width="118" height="34" rx="10" fill="#F1F7EF"/>
+  <text x="407" y="44" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="800" fill="#466245">Tools</text>
+  <text x="390" y="84" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Solidity</text>
+  <text x="390" y="112" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">TypeScript</text>
+  <text x="390" y="140" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Next.js</text>
+</svg>
