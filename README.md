@@ -8,7 +8,7 @@
 
 #
 
-<img align="right" src="./assets/poses/yoona-pose-07-ready.png" width="38%" alt="Yoona Q-style character" />
+<img align="right" src="./assets/poses/yoona-pose-01-wave.png" width="38%" alt="Yoona Q-style character waving" />
 
 <div>
   <img src="./assets/yoona-title.svg" height="64" alt="Yoona" />
@@ -27,6 +27,11 @@ Web3 full-stack developer exploring the space between contract logic, thoughtful
 - Building toward clean on-chain products with soft visuals and a steady engineering core.
 
 <img src="./assets/yoona-profile-card.svg" width="52%" alt="Yoona profile card" />
+
+<br />
+<br />
+
+<img src="./assets/yoona-current-card.svg" width="52%" alt="Yoona current desk card" />
 
 <br clear="right" />
 
