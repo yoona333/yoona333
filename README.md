@@ -31,7 +31,7 @@
       </p>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="./assets/yoona-profile.png" width="430" alt="Yoona Q-style character sheet" />
+      <img src="./assets/yoona-animated.gif" width="430" alt="Animated Yoona Q-style character poses" />
     </td>
   </tr>
 </table>
