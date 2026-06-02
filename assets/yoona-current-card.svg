@@ -1,19 +1,19 @@
 <svg width="560" height="210" viewBox="0 0 560 210" fill="none" xmlns="http://www.w3.org/2000/svg">
   <rect x="1" y="1" width="558" height="208" rx="18" fill="#FFFFFF" stroke="#F1D6E4" stroke-width="2"/>
   <rect x="22" y="22" width="148" height="34" rx="10" fill="#FFF1F7"/>
-  <text x="39" y="44" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="800" fill="#5C4654">Current Desk</text>
+  <text x="39" y="44" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="800" fill="#5C4654">Now Building</text>
   <circle cx="35" cy="82" r="5" fill="#E9AFCB"/>
-  <text x="52" y="87" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Build small Web3 demos from idea to UI</text>
+  <text x="52" y="87" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Contract-first demos with real user flows</text>
   <circle cx="35" cy="116" r="5" fill="#9BC8F3"/>
-  <text x="52" y="121" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Practice wallet flows with Ethers and Wagmi</text>
+  <text x="52" y="121" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Wallet-connected interfaces that feel calm</text>
   <circle cx="35" cy="150" r="5" fill="#BFDDBA"/>
-  <text x="52" y="155" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Write clearer notes for Solidity patterns</text>
+  <text x="52" y="155" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="700" fill="#29262D">Reusable notes for Solidity and Web3 UI patterns</text>
   <rect x="24" y="176" width="118" height="24" rx="12" fill="#F7DDEB"/>
-  <text x="43" y="193" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="800" fill="#6B3D56">Learning</text>
+  <text x="39" y="193" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="800" fill="#6B3D56">Product-minded</text>
   <rect x="154" y="176" width="104" height="24" rx="12" fill="#DBECFF"/>
-  <text x="181" y="193" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="800" fill="#315A7C">Shipping</text>
+  <text x="178" y="193" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="800" fill="#315A7C">On-chain</text>
   <rect x="270" y="176" width="126" height="24" rx="12" fill="#E3F6E8"/>
-  <text x="296" y="193" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="800" fill="#466245">Polishing</text>
+  <text x="291" y="193" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="800" fill="#466245">Frontend craft</text>
   <path d="M454 34C477 30 500 36 516 53C531 69 533 93 522 112C511 132 489 143 466 139C443 135 426 116 425 94C424 70 432 44 454 34Z" fill="#FFF8FC"/>
   <path d="M465 70L485 90L512 60" stroke="#D36B9F" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

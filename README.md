@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Yoona</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2200&pause=1000&center=true&vCenter=true&width=760&lines=Smart+contracts+meet+soft+interfaces.;Building+Web3+products+with+care.;Learning+in+public%2C+shipping+small+things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2200&pause=1000&center=true&vCenter=true&width=760&lines=From+contract+logic+to+product+experience.;Design-minded+Web3+full-stack+developer.;Learning+deeply%2C+building+deliberately." alt="Typing SVG" />
 </p>
 
 #
@@ -20,11 +20,11 @@
 
 <br />
 
-Web3 full-stack developer exploring the space between contract logic, thoughtful interfaces, and practical product flow.
+I am a Web3 full-stack developer focused on translating smart contract ideas into clear product experiences. My work sits between Solidity, frontend engineering, and the small details that make an interface feel trustworthy.
 
-- Currently focused on `Solidity`, `TypeScript`, `React`, `Next.js`, `Ethers`, `Wagmi`, and `Hardhat`.
-- I like turning small ideas into complete demos and making technical details feel easier to use.
-- Building toward clean on-chain products with soft visuals and a steady engineering core.
+- Building a foundation in `Solidity`, `TypeScript`, `React`, `Next.js`, `Ethers`, `Wagmi`, and `Hardhat`.
+- Prototyping from contract behavior to UI, so each demo is usable instead of only technically correct.
+- Documenting what I learn and refining it into patterns I can reuse.
 
 <img src="./assets/yoona-profile-card.svg" width="52%" alt="Yoona profile card" />
 
