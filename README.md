@@ -22,9 +22,9 @@
 
 I am a Web3 full-stack developer focused on translating smart contract ideas into clear product experiences. My work sits between Solidity, frontend engineering, and the interaction details that make an interface feel trustworthy.
 
-- Building a foundation in `Solidity`, `TypeScript`, `React`, `Next.js`, `Ethers`, `Wagmi`, and `Hardhat`.
-- Prototyping from contract behavior to UI, so each demo is usable instead of only technically correct.
-- Documenting what I learn and refining it into patterns I can reuse.
+- Working across `Solidity`, `TypeScript`, `React`, `Next.js`, `Ethers`, `Wagmi`, and `Hardhat`.
+- Prototyping from contract behavior to interface flow, so demos are shaped around real use.
+- Turning notes from practice into reusable patterns for future builds.
 
 <img src="./assets/yoona-profile-card.svg" width="52%" alt="Yoona profile card" />
 
